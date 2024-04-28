@@ -4,7 +4,6 @@ import json
 import re
 from .bing_query import call_bing_search
 
-# client = OpenAI(api_key="sk-proj-oLzdQ7xQIuykUaFqno3XT3BlbkFJLHyfDQiBmBxqRmNY8thb")
 
 car = "Mercedes benz c300 2013"
 
