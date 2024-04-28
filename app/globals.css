@@ -86,13 +86,15 @@ body {
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
+  /* color: rgb(var(--foreground-rgb)); */
+  color: black;
+  /* background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
-    rgb(var(--background-start-rgb));
+    rgb(var(--background-start-rgb)); */
+    background-color: rgb(235, 232, 232);
 }
 
 a {
@@ -104,4 +106,28 @@ a {
   html {
     color-scheme: dark;
   }
+}
+
+
+.header {
+  background-color: white;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.rounded-small {
+  border-radius: 2px;
+}
+.fs-12 {
+  font-size: 12px;
+}
+
+.fs-15 {
+  font-size: 15px;
+}
+
+input.small-placeholder::placeholder {
+  font-size: 14px;
 }
