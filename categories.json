@@ -1,0 +1,70 @@
+{
+    "categories": [
+        {
+            "title": "Body Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Engine Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Electrical Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Interior Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Suspension & Steering Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Brake Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Cooling & Heating Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Transmission & Drivetrain Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Exhaust Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Wheels & Tires",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        },
+        {
+            "title": "Air Conditioning Parts",
+            "make": "Mercedes Benz",
+            "model": "C300",
+            "year": 2013
+        }
+    ]
+}

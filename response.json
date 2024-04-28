@@ -1,0 +1,103 @@
+{
+    "parts": [
+        {
+            "name": "Front Bumper",
+            "description": "Front bumper for Mercedes Benz 2013 C300",
+            "min_price": 300,
+            "max_price": 600,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Rear Bumper",
+            "description": "Rear bumper for Mercedes Benz 2013 C300",
+            "min_price": 250,
+            "max_price": 500,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Headlights",
+            "description": "Pair of headlights for Mercedes Benz 2013 C300",
+            "min_price": 400,
+            "max_price": 800,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Taillights",
+            "description": "Pair of taillights for Mercedes Benz 2013 C300",
+            "min_price": 200,
+            "max_price": 400,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Front Left Door",
+            "description": "Front left door for Mercedes Benz 2013 C300",
+            "min_price": 500,
+            "max_price": 1000,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Front Right Door",
+            "description": "Front right door for Mercedes Benz 2013 C300",
+            "min_price": 500,
+            "max_price": 1000,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Rear Left Door",
+            "description": "Rear left door for Mercedes Benz 2013 C300",
+            "min_price": 450,
+            "max_price": 900,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Rear Right Door",
+            "description": "Rear right door for Mercedes Benz 2013 C300",
+            "min_price": 450,
+            "max_price": 900,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Wheels",
+            "description": "Set of 4 wheels for Mercedes Benz 2013 C300",
+            "min_price": 800,
+            "max_price": 1600,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Brake Pads",
+            "description": "Brake pads for Mercedes Benz 2013 C300",
+            "min_price": 50,
+            "max_price": 100,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        },
+        {
+            "name": "Oil Filter",
+            "description": "Oil filter for Mercedes Benz 2013 C300",
+            "min_price": 10,
+            "max_price": 20,
+            "year": 2013,
+            "make": "Mercedes Benz",
+            "model": "C300"
+        }
+    ]
+}
